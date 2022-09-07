@@ -1,0 +1,2 @@
+D:\Projects\Coding Projects\C++\DiceRolling\Debug\DiceRolling.exe
+D:\Projects\Coding Projects\C++\DiceRolling\Debug\DiceRolling.pdb

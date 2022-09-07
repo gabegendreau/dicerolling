@@ -1,0 +1,3 @@
+﻿  DiceRolling.cpp
+D:\Projects\Coding Projects\C++\DiceRolling\DiceRolling.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DiceRolling.vcxproj -> D:\Projects\Coding Projects\C++\DiceRolling\Debug\DiceRolling.exe
